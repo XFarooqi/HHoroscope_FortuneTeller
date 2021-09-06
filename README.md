@@ -39,6 +39,12 @@ This programme is written by X_Farooqi and I will really appreciate for any cont
 4. Modifying READMe
 5. Refactoring Code
 
+## Issues
+
+I am cuurently working on writing modular code for this programme to make the code look more clean and efficient. It will help the contributor to understand all the programme very clearly.
+
+I am also working on the documentation of this programme. Currently working on **Inline comments** and **Docstring** then after that will do a complete **Project Documentation**
+
 ## Licence
 
 It is free Programme for the community. Fell free to do whatever you want to do and Enjoy!
